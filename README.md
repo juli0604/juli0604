@@ -1,9 +1,9 @@
 
-[![Visits](https://badges.pufler.dev/visits/MarcelCoding/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
-[![Years](https://badges.pufler.dev/years/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
-[![Repos](https://badges.pufler.dev/repos/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding?tab=repositories)
-[![Gists](https://badges.pufler.dev/gists/MarcelCoding?style=flat-square&color=black&logo=github)](https://gist.github.com/MarcelCoding)
-[![Monthly Commits](https://badges.pufler.dev/commits/monthly/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
+[![Visits](https://badges.pufler.dev/visits/juli0604/juli0604?style=flat-square&color=black&logo=github)](https://github.com/juli0604)
+[![Years](https://badges.pufler.dev/years/juli0604?style=flat-square&color=black&logo=github)](https://github.com/juli0604)
+[![Repos](https://badges.pufler.dev/repos/juli0604?style=flat-square&color=black&logo=github)](https://github.com/juli0604?tab=repositories)
+[![Gists](https://badges.pufler.dev/gists/juli0604?style=flat-square&color=black&logo=github)](https://gist.github.com/juli0604)
+[![Monthly Commits](https://badges.pufler.dev/commits/monthly/juli0604?style=flat-square&color=black&logo=github)](https://github.com/juli0604)
 
 <!--
 **juli0604/juli0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
