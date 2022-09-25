@@ -9,7 +9,7 @@ My name is **Julian**.
 <br><br>
 Currently I am working on a small **server network**.
 <br>
-You can reach me via Discord **(juli06#3700)** or by mail **(julian.kuhn@admin-guide.com)**. 
+You can reach me via Discord **(juli06#3700)**. 
 <br>
 
 [![Visits](https://badges.pufler.dev/visits/juli0604/juli0604?style=flat-square&color=black&logo=github)](https://github.com/juli0604)
